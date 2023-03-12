@@ -1,0 +1,6 @@
+framework module Pods_Taskget_TaskgetUITests {
+  umbrella header "Pods-Taskget-TaskgetUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

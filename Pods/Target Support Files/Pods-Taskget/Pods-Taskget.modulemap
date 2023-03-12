@@ -1,0 +1,6 @@
+framework module Pods_Taskget {
+  umbrella header "Pods-Taskget-umbrella.h"
+
+  export *
+  module * { export * }
+}
